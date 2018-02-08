@@ -1,0 +1,117 @@
+{
+    
+    "list" : [
+              //  "0123456789ABC"
+              "pumpernickel-", // 0
+              "---a-------e-", // 1
+              "---l-------a-", // 2
+              "caramel-f--v-", // 3
+              "o--d----j--e-", // 4
+              "r--i----o--n-", // 5
+              "a-snicker----", // 6
+              "l----o--dawn-", // 7
+              "-----d-------", // 8
+              "----harp-----", // 9
+              "-------------", // A
+              "-------------", // B
+              "-------------"  // C
+              
+              ],
+    
+    "word_list" : [
+                   //---- Horizontal
+                   {
+                   "word" : "pumpernickel",
+                   "direction" : "horizontal",
+                   "word_number" : 1,
+                   "position" : {
+                   "row" : 6,
+                   "col" : 7
+                   }
+                   },
+                   {
+                   "word" : "caramel",
+                   "direction" : "horizontal",
+                   "word_number" : 2,
+                   "position" : {
+                   "row" : 3,
+                   "col" : 0
+                   }
+                   },
+                   {
+                   "word" : "snicker",
+                   "direction" : "horizontal",
+                   "word_number" : 3,
+                   "position" : {
+                   "row" : 6,
+                   "col" : 2
+                   }
+                   },
+                   {
+                   "word" : "dawn",
+                   "direction" : "horizontal",
+                   "word_number" : 4,
+                   "position" : {
+                   "row" : 7,
+                   "col" : 8
+                   }
+                   },
+                   {
+                   "word" : "harp",
+                   "direction" : "horizontal",
+                   "word_number" : 5,
+                   "position" : {
+                   "row" : 9,
+                   "col" : 4
+                   }
+                   },
+                   //-----Vertical
+                   {
+                   "word" : "paladin",
+                   "direction" : "vertical",
+                   "word_number" : 1,
+                   "position" : {
+                   "row" : 0,
+                   "col" : 3
+                   }
+                   },
+                   {
+                   "word" : "coda",
+                   "direction" : "vertical",
+                   "word_number" : 5,
+                   "position" : {
+                   "row" : 6,
+                   "col" : 5
+                   }
+                   },
+                   {
+                   "word" : "fjord",
+                   "direction" : "vertical",
+                   "word_number" : 4,
+                   "position" : {
+                   "row" : 3,
+                   "col" : 8
+                   }
+                   },
+                   {
+                   "word" : "coral",
+                   "direction" : "vertical",
+                   "word_number" : 3,
+                   "position" : {
+                   "row" : 3,
+                   "col" : 0
+                   }
+                   },
+                   {
+                   "word" : "leaven",
+                   "direction" : "vertical",
+                   "word_number" : 2,
+                   "position" : {
+                   "row" : 0,
+                   "col" : 10
+                   }
+                   }
+                   ]
+    
+    
+}
